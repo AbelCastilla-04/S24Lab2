@@ -1,0 +1,33 @@
+body {
+  background-color: light blue;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.info {
+  background-color: #33b5e5;
+  width: 80%;
+}
+
+.phone {
+	width: 100%;
+}
+
+.email {
+	width: 100%;
+}
+
+.dob {
+	width: 100%
+}
+
+@media only screen and (min-width: 768px) {
+  .phone {width: 50%;}
+  .email {width: 50%;}
+  .dob {width: 50%;}

@@ -19,17 +19,17 @@ p {
 
 .phone {
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 .email {
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 .dob {
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 @media only screen and (min-width: 768px) {

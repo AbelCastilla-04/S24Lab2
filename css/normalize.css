@@ -38,7 +38,7 @@ p {
   vertical-align: middle;
 }
 
-.submit {
+input[type=submit] {
 	margin: auto;
 }
 

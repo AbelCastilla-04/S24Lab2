@@ -12,6 +12,9 @@ p {
 
 .info {
   background-color: #33b5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: auto;
   width: 80%;
   height: 400px;
@@ -19,21 +22,20 @@ p {
 
 .phone {
   width: 100%;
-  padding: auto;
 }
 
 .email {
   width: 100%;
-  padding: auto;
 }
 
 .dob {
   width: 100%;
-  padding: auto;
 }
 
 input[type=submit] {
-	margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media only screen and (min-width: 768px) {

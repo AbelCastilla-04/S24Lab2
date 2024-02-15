@@ -30,6 +30,6 @@ p {
 }
 
 @media only screen and (min-width: 768px) {
-  .phone {width: 50%;}
-  .email {width: 50%;}
+  .phone {width: 25%;}
+  .email {width: 25%;}
   .dob {width: 50%;}

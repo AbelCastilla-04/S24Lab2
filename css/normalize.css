@@ -7,7 +7,7 @@ p {
   font-size: 30px;
   text-align: center;
   margin-top: 15px;
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .info {
@@ -32,6 +32,10 @@ p {
 	width: 100%;
 	margin-top: 15px;
 	margin-bottom: 15px;
+}
+
+.submit {
+	margin: auto;
 }
 
 @media only screen and (min-width: 768px) {

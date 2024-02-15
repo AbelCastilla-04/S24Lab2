@@ -32,12 +32,6 @@ p {
   margin-bottom: 50px;
 }
 
-input[type=submit] {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 @media only screen and (min-width: 768px) {
   .phone {width: 25%;}
   .email {width: 25%;}

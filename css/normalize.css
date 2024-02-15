@@ -19,23 +19,17 @@ p {
 
 .phone {
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-bottom: 50px;
 }
 
 .email {
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-bottom: 50px;
 }
 
 .dob {
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-bottom: 50px;
 }
 
 input[type=submit] {

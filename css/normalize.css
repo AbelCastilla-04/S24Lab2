@@ -20,19 +20,16 @@ p {
 .phone {
   width: 100%;
   padding: auto;
-  vertical-align: middle;
 }
 
 .email {
   width: 100%;
   padding: auto;
-  vertical-align: middle;
 }
 
 .dob {
   width: 100%;
   padding: auto;
-  vertical-align: middle;
 }
 
 input[type=submit] {

@@ -3,11 +3,13 @@ body {
 }
 
 h1 {
+  width: 100%;
   font-size: 50px;
   text-align: center;
 }
 
 p {
+  width: 100%;
   font-size: 30px;
   text-align: center;
 }

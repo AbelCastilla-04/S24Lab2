@@ -19,22 +19,19 @@ p {
 
 .phone {
   width: 100%;
-  line-height: 1.5;
-  display: inline-block;
+  padding: auto;
   vertical-align: middle;
 }
 
 .email {
   width: 100%;
-  line-height: 1.5;
-  display: inline-block;
+  padding: auto;
   vertical-align: middle;
 }
 
 .dob {
   width: 100%;
-  line-height: 1.5;
-  display: inline-block;
+  padding: auto;
   vertical-align: middle;
 }
 

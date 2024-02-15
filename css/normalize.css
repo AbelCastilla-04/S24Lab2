@@ -6,6 +6,8 @@ p {
   width: 100%;
   font-size: 30px;
   text-align: center;
+  margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .info {
